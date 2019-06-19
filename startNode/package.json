@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-startup-tutorial",
+  "version": "1.0.0",
+  "description": "Complete Startup Steps",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yogendra kumar",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
